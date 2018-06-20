@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Résumé : Phonétique des corpus
-date:   2018-06-19 18:14:18 +0200
+date:   2018-06-19 18:14:18
 categories: resume
 ---
 ## Corpus phonetics: past, present, and future
