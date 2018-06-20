@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Résumé Phonétique des corpus
+title:  Résumé : Phonétique des corpus
 date:   2018-06-19 18:14:18 +0200
 categories: resume
 ---
